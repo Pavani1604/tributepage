@@ -1,0 +1,50 @@
+body{
+    position:relative;
+    height:100vh;
+    font-family:"Roboto";
+  }
+  .bg{
+    background-color:#ee9ca7;
+    border-radius:5px;
+  }
+  .tejimg{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWw7cO4FR1BYDygycJrPC3-z8YiDRHvfhx4w&usqp=CAU");
+    background-size:cover;
+    border-top-left-radius: 5vh;
+    border-top-right-radius: 5vh;
+    border-bottom-left-radius: 5vh;
+    border-bottom-right-radius:5vh ;
+    height:50vh;
+    width:80vw;
+   max-height:40%;
+    max-width:50%;
+    transform:translate(48%,-3%);
+    border-radius:10px;
+   
+  }
+  .tit{
+    text-align:center;
+    color:#42275a;
+    font-size:60px;
+    
+  }
+  .card{
+    height:60vh;
+    padding:10px;
+    background-color:#ffdde1;
+    margin:40px;
+    border-radius:5vh;
+  }
+  .tit_in_card{
+    text-align:center;
+    color:#42275a;
+  }
+  ul{
+    list-style-type:square;
+    font-size:20px;
+  }
+  .end{
+    font-size:17px;
+    padding:10px;
+    text-align:center;
+  }
